@@ -1,0 +1,36 @@
+.darkgrey{
+    background-color:rgb(194, 58, 99);
+}
+.caja1{
+    height: 300px;
+}
+.caja2{
+    background-color:rgb(182, 83, 107);
+}
+.cajita2-1{
+    height: 140px;
+    padding: 25px 20px;
+}
+
+.imginicio2{
+    height: 140px;
+    margin: 30px;
+}
+.h4-1{
+    margin: 0 20px;
+}
+.h4-2{
+    margin: 0 20px;
+    color: rgb(0, 255, 179);
+}
+.textolorem{
+    font-size: 14px;
+    margin: 20px;
+    margin-top: 0;
+}
+.collapse{
+    color:rgb(35, 32, 241);
+}
+.bg{
+    background-color:rgb(211, 78, 171);
+}

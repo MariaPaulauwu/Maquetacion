@@ -1,0 +1,26 @@
+.caja1pagina5{
+    display: flex;
+}
+.ulpagina5{
+    line-height: 45px;
+}
+.imapag5{
+    height: 120px;
+}
+.caja3{
+    background-color: rgb(211, 6, 177);
+}
+.caja3 p{
+    color: black;
+}
+.lipag5{
+    color: rgb(0, 0, 0);
+    list-style: none;
+}
+.lipag5:hover{
+    background-color: rgb(224, 98, 125);
+    cursor: pointer;
+}
+.bg{
+    background-color:rgb(189, 18, 112);
+}

@@ -1,0 +1,27 @@
+@import url(styleInicio.css);
+@import url(stylepag2.css);
+@import url(stylepag3.css);
+@import url(stylepag4.css);
+@import url(stylepag5.css);
+@import url(stylepag6.css);
+@import url(stylepag7.css);
+@import url(stylepag8.css);
+
+*{
+    box-sizing: border-box;
+    color: antiquewhite;
+}
+body{
+    padding: o;
+    margin: 0;
+}
+nav{
+    background-color: rgb(182, 23, 182);
+    border-bottom: 1px solid rgb(230, 17, 202);
+}
+main{
+    background-color: palevioletred;
+}
+.grey{
+    background-color: rgb(27, 216, 216);
+}

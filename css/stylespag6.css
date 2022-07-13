@@ -1,0 +1,30 @@
+.caja1{
+    background-color: rgb(192, 70, 216);
+}
+.search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../img/666.jpg);
+    background-size: contain;
+    height: 400px;
+}
+.search2{
+    width: 400px;
+}
+.img2pag6{
+    height: 250px;
+    width: 250px;
+}
+.img3pag6{
+    height: 70px;
+}
+.pag6-1{
+    font-size: 12px;
+}
+.hr{
+    visibility: hidden;
+}
+.bg{
+    background-color:rgb(236, 117, 177);
+}

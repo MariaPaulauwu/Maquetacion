@@ -1,0 +1,9 @@
+.Pag{
+    padding: 0;
+    margin: 0;
+    height: max-content;
+    width: auto;
+}
+.bg{
+    background-color:rgb(201, 75, 194);
+}
